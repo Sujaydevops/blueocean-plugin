@@ -125,6 +125,12 @@
             <artifactId>workflow-basic-steps</artifactId>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>org.eclipse.jetty</groupId>
+            <artifactId>jetty-security</artifactId>
+            <scope>test</scope>
+        </dependency>
+
     </dependencies>
 
     <build>
